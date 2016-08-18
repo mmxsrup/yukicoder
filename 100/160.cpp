@@ -55,7 +55,6 @@ void floyd (int n){//nは頂点の数
     }
 }
 
-
 int main(void){
 	int n, m;
 	cin >> n >> m >> s >> g;
